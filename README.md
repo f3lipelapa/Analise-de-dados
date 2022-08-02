@@ -9,3 +9,4 @@ As manchas são efeitos temporários na superfície do Sol, a origem desses efei
 [Vídeo da NASA que mostra as manchas solares em ação.](https://www.youtube.com/watch?v=6tmbeLTHC_0&feature=emb_logo)
 
 ![Camadas do Sol](https://i0.wp.com/socientifica.com.br/wp-content/uploads/2020/04/camadas_do_sol-1.jpg?ssl=1)
+<h5 style="font-size: 5px">fonte: https://socientifica.com.br/qual-a-temperatura-do-sol/</h5>
